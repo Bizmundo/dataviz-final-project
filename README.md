@@ -42,8 +42,7 @@ The filter dropdown menu contains:
 
 The search and stop data used to create this map can be found on [github.](https://gist.github.com/Bizmundo/246821fffd9f3ed3c1c25f515be6eb6e)
 The map topojson data used to create this map can be found on [github.](https://gist.github.com/Bizmundo/6217aa9331f15c6d92ce6bb2797f18a9)
-The interactive map above can be found on [vizhub.]
-(https://beta.vizhub.com/Bizmundo/eeae1f30537140e4a1594886d048a7fb)
+The interactive map above can be found on [vizhub.](https://beta.vizhub.com/Bizmundo/eeae1f30537140e4a1594886d048a7fb)
 
 ## Future Works
 ### The Kent County (UK) police stop and search interactive map
