@@ -38,14 +38,15 @@ The filter dropdown menu contains:
 
 
 ![image](https://user-images.githubusercontent.com/16506192/68064378-19b32700-fcf1-11e9-8355-069db00dfce2.PNG)
+ Figure 1: Kent County (UK) interactive police stop and search map
 
-<p align="justify">
- *Figure 1: Kent County (UK) interactive police stop and search map*
-</p>
 
-## Prototypes
+## Future Works
+### The Kent County (UK) police stop and search interactive map
+A time range sleactor will be added the interactive map to enable users to filter the stop & search data by time
 
-I’ve created a proof of concept visualization of this data. It's a bar chart that shows the proportion of the stop and search type by race.
+### Linked proportion bar chart
+This  bar chart will be linked to the stop and search map. It will diplay the proportion of each attribute by race.
 
 [![image](https://user-images.githubusercontent.com/16506192/65561829-e91de780-df11-11e9-8a30-4959fcf9d725.png)](https://beta.vizhub.com/Bizmundo/f2a2654c525c466b8238c041dca5c844)
 
@@ -56,15 +57,4 @@ I’ve created a proof of concept visualization of this data. It's a bar chart t
 
 
 
-## Open Questions
-I am not sure that the map of Kent is available in a format that will ease the vizulization of this data.
-
-## Schedule of delivrables
-* Get addtional data to cover one to five years of stop and search by 10/5/2019
-* Data cleaning by 10/05/2019
-* Gather and prepare Kent city map data 10/05/2019
-* Generate algorithm to display interactive stop and search attributes bar chart 10/12/2019
-* Generate algorithm to display interactive stop and search map 10/17/2019
-* Validation/testing 10/25/2019
-* Submission
 
