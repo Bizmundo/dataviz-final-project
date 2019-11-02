@@ -26,7 +26,7 @@ The filter dropdown menu contains:
 * Removal of more than just outer clothing
 
 
-![image](https://user-images.githubusercontent.com/16506192/65564970-9695f880-df1c-11e9-93f0-e0ff83f1db19.png)
+![image](https://user-images.githubusercontent.com/16506192/68064378-19b32700-fcf1-11e9-8355-069db00dfce2.PNG)
 
 ## Prototypes
 
