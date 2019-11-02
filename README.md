@@ -4,6 +4,17 @@
 
 This project is a visualisation of [stop and search data of Kent County (UK) police](https://gist.github.com/Bizmundo/246821fffd9f3ed3c1c25f515be6eb6e).
 
+
+## Questions & Tasks
+
+This visualization project attempt to help the user answer the following questions:
+
+ * Is there any correlation between stop and search type and race?
+ * Is there any correlation between object of search and race?
+ * Is there any relationship between stop and search outcome and race?
+ * Is there any spacial pattern on the location of the stops and searches?
+ * How does the temporal trend of the stop and search look?
+
 ### The Kent County (UK) police stop and search interactive map
 It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. It helps user discover whether there is a spacial correlation between the stop & search data attribute and race. 
 
@@ -36,26 +47,10 @@ I’ve created a proof of concept visualization of this data. It's a bar chart t
 
 
 
-## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * Is there any correlation between stop and search type and race?
- * Is there any correlation between object of search and race?
- * Is there any relationship between stop and search outcome and race?
- * Is there any spacial pattern on the location of the stops and searches?
- * How does the temporal trend of the stop and search look?
 
-## Sketches
 
-Below are the sketches of the charts  that will help answer the questions above.
-
-### The bar chart
-It displays the percentage or count of an attribute by race. It has a selection box that helps the user select the attribute of instrest. The selection box will have a default value as "type". Once the user clicks on the selection box, he will be presented with a list of attributes. Once the user selects an attributes, the chart will then be updated with the values of the selected attribute.
-![image](https://user-images.githubusercontent.com/16506192/65564934-76663980-df1c-11e9-88f0-d5d9fc865c24.png)
-### The Kent (UK) map
-It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. The slider helps observe the trend of the spatial positions of the stop and search over time. Moving the slider from left to right will display additional locations of the stop and search on the map.
-![image](https://user-images.githubusercontent.com/16506192/65564970-9695f880-df1c-11e9-93f0-e0ff83f1db19.png)
 
 ## Open Questions
 I am not sure that the map of Kent is available in a format that will ease the vizulization of this data.
