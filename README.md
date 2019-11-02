@@ -34,7 +34,7 @@ The filter dropdown menu contains:
 * Outcome
 * Outcome linked to object of search
 * Removal of more than just outer clothing
-* Removal of more than just outer clothing
+
 
 
 ![image](https://user-images.githubusercontent.com/16506192/68064378-19b32700-fcf1-11e9-8355-069db00dfce2.PNG)
