@@ -9,14 +9,14 @@ This project is a visualisation of [stop and search data of Kent County (UK) pol
 
 This visualization project attempt to help the user answer the following questions:
 
+ * Is there any spacial pattern on the location of the stops and searches?
+ * How does the temporal trend of the stop and search look on the map?
  * Is there any correlation between stop and search type and race?
  * Is there any correlation between object of search and race?
  * Is there any relationship between stop and search outcome and race?
- * Is there any spacial pattern on the location of the stops and searches?
- * How does the temporal trend of the stop and search look?
 
 ### The Kent County (UK) police stop and search interactive map
-It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. It helps user discover whether there is a spacial correlation between the stop & search data attribute and race. 
+It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. It helps user discover whether there is a spatial pattern between the stop & search data attribute and race. 
 
 The race dropdown menu contains:
 * All
@@ -43,10 +43,10 @@ The filter dropdown menu contains:
 
 ## Future Works
 ### The Kent County (UK) police stop and search interactive map
-A time range selector will be added the interactive map to enable users to filter the stop & search data by time
+A time range selector will be added the interactive map to enable users to filter the stop & search data by time. This will enable the user to discover any spcial trend over time. 
 
 ### Linked proportion bar chart
-This  bar chart will be linked to the stop and search map. It will display the proportion the user selected attribute by race.
+This  bar chart will be linked to the stop and search map. It will display the proportion the user selected attribute by race. This will helps the user determine whether the attribute of the arrest are proportionally balanced between race.
 [![image](https://user-images.githubusercontent.com/16506192/65561829-e91de780-df11-11e9-8a30-4959fcf9d725.png)](https://beta.vizhub.com/Bizmundo/f2a2654c525c466b8238c041dca5c844)
 <p>Figure 2: Stop & search type by race</p>
 
