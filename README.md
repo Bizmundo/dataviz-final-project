@@ -40,6 +40,7 @@ The filter dropdown menu contains:
 ![image](https://user-images.githubusercontent.com/16506192/68064378-19b32700-fcf1-11e9-8355-069db00dfce2.PNG)
  <p>Figure 1: Kent County (UK) interactive police stop and search map</p>
 
+The interactive map above can be found on [vizhub](https://beta.vizhub.com/Bizmundo/eeae1f30537140e4a1594886d048a7fb)
 
 ## Future Works
 ### The Kent County (UK) police stop and search interactive map
