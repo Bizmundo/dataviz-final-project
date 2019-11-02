@@ -2,7 +2,31 @@
 
 ## Data
 
-The data I propose to visualize for my project is the [stop and search data of Kent (UK) police](https://gist.github.com/Bizmundo/246821fffd9f3ed3c1c25f515be6eb6e).
+This project is a visualisation of [stop and search data of Kent County (UK) police](https://gist.github.com/Bizmundo/246821fffd9f3ed3c1c25f515be6eb6e).
+
+### The Kent (UK) map
+It displays the location of the stop and search on the map. It has a combo box that helps the user overlay other attributes on the map. It helps user discover whether there is a spacial correlation between the stop & search data attribute and race. 
+
+The race dropdown menu contains:
+* All
+* Asian
+* Black
+* Mixed
+* Other
+* White
+
+The filter dropdown menu contains:
+* Type 
+* Part of a policing operation
+* Gender
+* Legislation
+* Outcome
+* Outcome linked to object of search
+* Removal of more than just outer clothing
+* Removal of more than just outer clothing
+
+
+![image](https://user-images.githubusercontent.com/16506192/65564970-9695f880-df1c-11e9-93f0-e0ff83f1db19.png)
 
 ## Prototypes
 
