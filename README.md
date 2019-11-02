@@ -38,17 +38,17 @@ The filter dropdown menu contains:
 
 
 ![image](https://user-images.githubusercontent.com/16506192/68064378-19b32700-fcf1-11e9-8355-069db00dfce2.PNG)
- Figure 1: Kent County (UK) interactive police stop and search map
+ *Figure 1: Kent County (UK) interactive police stop and search map
 
 
 ## Future Works
 ### The Kent County (UK) police stop and search interactive map
-A time range sleactor will be added the interactive map to enable users to filter the stop & search data by time
+A time range selector will be added the interactive map to enable users to filter the stop & search data by time
 
 ### Linked proportion bar chart
-This  bar chart will be linked to the stop and search map. It will diplay the proportion of each attribute by race.
-
+This  bar chart will be linked to the stop and search map. It will display the proportion the user selected attribute by race.
 [![image](https://user-images.githubusercontent.com/16506192/65561829-e91de780-df11-11e9-8a30-4959fcf9d725.png)](https://beta.vizhub.com/Bizmundo/f2a2654c525c466b8238c041dca5c844)
+*Figure 2: Stop & search type by race
 
 
 
